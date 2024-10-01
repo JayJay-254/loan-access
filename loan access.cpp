@@ -1,3 +1,9 @@
+/*
+program to print loan qualification
+Author:Jackson Njenga
+Registration Number:CT102/G/21788/23
+*/
+
 #include<stdio.h>
 int main(){
 	
